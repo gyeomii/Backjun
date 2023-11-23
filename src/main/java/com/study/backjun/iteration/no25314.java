@@ -1,4 +1,4 @@
-package com.study.backjun.exam.loop;
+package com.study.backjun.iteration;
 
 import java.util.Scanner;
 
